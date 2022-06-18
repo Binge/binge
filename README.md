@@ -3,9 +3,13 @@ Binge
 
 Todo + Note
 
-### Why?
+### Logical
 
-It’s hard to me to use notion. I try to build a simple one or one more suited to my own needs.
+```mermaid
+graph LR
+Collect-->Organize;
+Organize-->Learn;
+```
 
 ### Feature
 
@@ -16,6 +20,10 @@ It’s hard to me to use notion. I try to build a simple one or one more suited 
 ### Built With
 
 - [Vue](https://vuejs.org)
+
+### Why?
+
+It’s hard to me to use notion. I try to build a simple one or one more suited to my own needs.
 
 ### Lincense
 
